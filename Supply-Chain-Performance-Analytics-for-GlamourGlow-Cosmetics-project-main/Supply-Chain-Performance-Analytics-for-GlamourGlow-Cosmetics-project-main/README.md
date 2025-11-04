@@ -45,13 +45,6 @@ Time-Series Trend: Analyze seasonal and temporal variations in costs and deliver
 
 Interactive Filters: Drill down by region, carrier, or time period
 
-🔗 Project Links
-
-Interactive Tableau Dashboard:
-https://public.tableau.com/app/profile/raj.bhattacharjee3352/viz/SupplyChainPerformanceAnalyticsforGlamourGlowCosmeticsproject1/Dashboard4
-
-GitHub Repository:
-https://github.com/RajBhattachrya/Supply-Chain-Performance-Analytics-for-GlamourGlow-Cosmetics-project
 
 🚀 Insights & Key Takeaways
 
@@ -64,8 +57,5 @@ Seasonal spikes indicate potential inventory planning and demand forecasting opp
 Interactive dashboard allows stakeholders to simulate “what-if” scenarios for cost optimization
 
 
-👨‍💻 Author
 
-Raj Bhattacharya
-📧 LinkedIn URL- www.linkedin.com/in/raj-bhattacharya-33411b372
-📍 Data Analytics | Business Intelligence | Tableau | SQL | Excel | Python | Power bi
+Data Analytics | Business Intelligence | Tableau | SQL | Excel | Python | Power bi
